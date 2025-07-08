@@ -18,9 +18,6 @@ Der Nutzer kann ein Konto anlegen, Beträge einzahlen oder abheben und sich den 
 - Einfache Fehlerbehandlung (try/catch, Exceptions)
 - Benutzerinteraktion über die Konsole
 
-## Ziel
-
-Kleines Übungsprojekt im Rahmen der Ausbildung zum Fachinformatiker (1. Lehrjahr), um Grundlagen von C#-Konsolenanwendungen, OOP und Eingabevalidierung zu festigen.
 
 
 
